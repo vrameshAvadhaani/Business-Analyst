@@ -1,3 +1,5 @@
-theme: jekyll-theme-minimal
 title: Vikram Ramesh
-description: portfolio to showcase all my work
+logo: /assets/img/profile.png
+description: Software engineer building web apps.
+show_downloads: false
+theme: jekyll-theme-minimal
